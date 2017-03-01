@@ -1,0 +1,25 @@
+jockey,page
+"杜利萊,韋達,莫雷拉,蘇兆輝,梁家俊,史卓豐,楊明綸,蔣嘉琦,莫艾誠,何澤堯,巴度,李寶利,田泰安",2
+"潘頓,蘇狄雄,莫雷拉,何澤堯,杜利萊,郭能,梁家俊,楊明綸,莫艾誠,田泰安,蔣嘉琦,韋達",HV
+jockey,page
+"Z Purton,T H So,J Moreira,C Y Ho,O Doleuze,N Callan,K C Leung,M L Yeung,O Murphy,K Teetan,K K Chiong,D Whyte",HV
+"O Doleuze,D Whyte,J Moreira,S de Sousa,K C Leung,C Schofield,M L Yeung,K K Chiong,O Murphy,C Y Ho,A Badel,U Rispoli,K Teetan",2
+trainer,horse,jockey,page
+,"(S432),(P064),(S367),(V144),(V129),(N265),(S087),(T356),(P105),(S413),(M273),(S424)","Z Purton,T H So,J Moreira,C Y Ho,O Doleuze,N Callan,K C Leung,M L Yeung,O Murphy,K Teetan,K K Chiong,D Whyte",HV
+,"(T288),(S202),(T002),(T203),(P293),(P088),(T287),(P168),(T161),(S050),(S351),(V227),(N166)","O Doleuze,D Whyte,J Moreira,S de Sousa,K C Leung,C Schofield,M L Yeung,K K Chiong,O Murphy,C Y Ho,A Badel,U Rispoli,K Teetan",2
+trainer,horse,jockey,page
+"C W Chang,D E Ferraris,C Fownes,A T Millard,L Ho,C H Yip,T K Ng,D Cruz,W Y So,K L Man,A Lee,P O'Sullivan,Y S Tsui","DUTCH WINDMILL,BLISS CARTEL,SPEEDY WALLY,ATOMIC BLAST,HIGH SPEED METRO,CHOICE EXCHEQUER,CHARITY PLENTY,MEDIC SWORDSMAN,SILVER GATSBY,MIGHTY WONGCHOY,MASTER PINNACLE,MONEY MAN,SAFARI MAGIC","O Doleuze,D Whyte,J Moreira,S de Sousa,K C Leung,C Schofield,M L Yeung,K K Chiong,O Murphy,C Y Ho,A Badel,U Rispoli,K Teetan",2
+"W Y So,L Ho,J Size,Y S Tsui,C H Yip,T K Ng,D Cruz,A Lee,T K Ng,C W Chang,D Cruz,D E Ferraris","RUGBY DIAMOND,ALL TIMES LUCKY,GIDDY GIDDY,TELECOM BOOM,POWER DRAGON,HIGHLAND DRAGON,KIM GLORY,NOBLE BUDDIES,DOUBLE MASTER,PERFECT SMART,GLORY HORSIE,A FAST ONE","Z Purton,T H So,J Moreira,C Y Ho,O Doleuze,N Callan,K C Leung,M L Yeung,O Murphy,K Teetan,K K Chiong,D Whyte",HV
+trainer,horse,jockey,LBW,draw,page
+"W Y So,L Ho,J Size,Y S Tsui,C H Yip,T K Ng,D Cruz,A Lee,T K Ng,C W Chang,D Cruz,D E Ferraris","RUGBY DIAMOND,ALL TIMES LUCKY,GIDDY GIDDY,TELECOM BOOM,POWER DRAGON,HIGHLAND DRAGON,KIM GLORY,NOBLE BUDDIES,DOUBLE MASTER,PERFECT SMART,GLORY HORSIE,A FAST ONE","Z Purton,T H So,J Moreira,C Y Ho,O Doleuze,N Callan,K C Leung,M L Yeung,O Murphy,K Teetan,K K Chiong,D Whyte","-,1/2,1-3/4,2-3/4,2-3/4,3,3-3/4,4-1/4,4-3/4,5-1/4,5-3/4,-","11,6,1,10,7,2,5,4,3,8,12,9",HV
+"C W Chang,D E Ferraris,C Fownes,A T Millard,L Ho,C H Yip,T K Ng,D Cruz,W Y So,K L Man,A Lee,P O'Sullivan,Y S Tsui","DUTCH WINDMILL,BLISS CARTEL,SPEEDY WALLY,ATOMIC BLAST,HIGH SPEED METRO,CHOICE EXCHEQUER,CHARITY PLENTY,MEDIC SWORDSMAN,SILVER GATSBY,MIGHTY WONGCHOY,MASTER PINNACLE,MONEY MAN,SAFARI MAGIC","O Doleuze,D Whyte,J Moreira,S de Sousa,K C Leung,C Schofield,M L Yeung,K K Chiong,O Murphy,C Y Ho,A Badel,U Rispoli,K Teetan","-,3/4,1-1/2,3-1/4,5,5-1/2,5-3/4,6,6-1/4,13,13-1/2,35,---","4,7,12,9,10,11,5,6,1,2,3,8,---",2
+track-type,trainer,draw,win-odds,course-type,class,distance,horse,jockey,LBW,race-meeting,going,page
+,,,,,,,,,,,,HV
+,,,,,,,,,,,,2
+track-type,trainer,draw,win-odds,course-type,class,distance,horse,jockey,LBW,race-meeting,going,page
+EDINBURGH HANDICAP,"W Y So,L Ho,J Size,Y S Tsui,C H Yip,T K Ng,D Cruz,A Lee,T K Ng,C W Chang,D Cruz,D E Ferraris","11,6,1,10,7,2,5,4,3,8,12,9","23,39,1.9,14,9.9,15,8.2,21,17,28,12,24","TURF - ""C+3"" COURSE",Class 5 - ,1000M - (40-0),"RUGBY DIAMOND,ALL TIMES LUCKY,GIDDY GIDDY,TELECOM BOOM,POWER DRAGON,HIGHLAND DRAGON,KIM GLORY,NOBLE BUDDIES,DOUBLE MASTER,PERFECT SMART,GLORY HORSIE,A FAST ONE","Z Purton,T H So,J Moreira,C Y Ho,O Doleuze,N Callan,K C Leung,M L Yeung,O Murphy,K Teetan,K K Chiong,D Whyte","-,1/2,1-3/4,2-3/4,2-3/4,3,3-3/4,4-1/4,4-3/4,5-1/4,5-3/4,-","
+                Race Meeting: 25/01/2017    Happy Valley
+            ",GOOD,HV
+LAMBETH HANDICAP,"C W Chang,D E Ferraris,C Fownes,A T Millard,L Ho,C H Yip,T K Ng,D Cruz,W Y So,K L Man,A Lee,P O'Sullivan,Y S Tsui","4,7,12,9,10,11,5,6,1,2,3,8,---","5.5,3.7,3.4,8.6,13,13,78,38,15,16,33,61,---","TURF - ""C+3"" COURSE",Class 5 - ,1650M - (40-15),"DUTCH WINDMILL,BLISS CARTEL,SPEEDY WALLY,ATOMIC BLAST,HIGH SPEED METRO,CHOICE EXCHEQUER,CHARITY PLENTY,MEDIC SWORDSMAN,SILVER GATSBY,MIGHTY WONGCHOY,MASTER PINNACLE,MONEY MAN,SAFARI MAGIC","O Doleuze,D Whyte,J Moreira,S de Sousa,K C Leung,C Schofield,M L Yeung,K K Chiong,O Murphy,C Y Ho,A Badel,U Rispoli,K Teetan","-,3/4,1-1/2,3-1/4,5,5-1/2,5-3/4,6,6-1/4,13,13-1/2,35,---","
+                Race Meeting: 25/01/2017    Happy Valley
+            ",GOOD,2

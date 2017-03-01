@@ -1,0 +1,17 @@
+[
+{"track-type": ["EDINBURGH HANDICAP"],
+  "trainer": ["W Y So", "L Ho", "J Size", "Y S Tsui", "C H Yip", "T K Ng", "D Cruz", "A Lee", "T K Ng", "C W Chang", "D Cruz", "D E Ferraris"],
+  "draw": ["11", "6", "1", "10", "7", "2", "5", "4", "3", "8", "12", "9"],
+  "jockey": ["Z Purton", "T H So", "J Moreira", "C Y Ho", "O Doleuze", "N Callan", "K C Leung", "M L Yeung", "O Murphy", "K Teetan", "K K Chiong", "D Whyte"],
+  "LBW": ["-", "1/2", "1-3/4", "2-3/4", "2-3/4", "3", "3-3/4", "4-1/4", "4-3/4", "5-1/4", "5-3/4", "-"],
+  "distance": ["1000M - (40-0)"],
+  "horse": ["RUGBY DIAMOND", "ALL TIMES LUCKY", "GIDDY GIDDY", "TELECOM BOOM", "POWER DRAGON", "HIGHLAND DRAGON", "KIM GLORY", "NOBLE BUDDIES", "DOUBLE MASTER", "PERFECT SMART", "GLORY HORSIE", "A FAST ONE"],
+  "race-meeting": ["\r\n                Race Meeting: 25/01/2017\u00a0\u00a0\u00a0\u00a0Happy Valley\r\n            "],
+  "going": ["GOOD"],
+  "win-odds": ["23", "39", "1.9", "14", "9.9", "15", "8.2", "21", "17", "28", "12", "24"],
+  "course-type": ["TURF - \"C+3\" COURSE"],
+  "class": ["Class 5 - "],
+  "page": "HV"
+},
+{"track-type": ["LAMBETH HANDICAP"], "trainer": ["C W Chang", "D E Ferraris", "C Fownes", "A T Millard", "L Ho", "C H Yip", "T K Ng", "D Cruz", "W Y So", "K L Man", "A Lee", "P O'Sullivan", "Y S Tsui"], "draw": ["4", "7", "12", "9", "10", "11", "5", "6", "1", "2", "3", "8", "---"], "jockey": ["O Doleuze", "D Whyte", "J Moreira", "S de Sousa", "K C Leung", "C Schofield", "M L Yeung", "K K Chiong", "O Murphy", "C Y Ho", "A Badel", "U Rispoli", "K Teetan"], "LBW": ["-", "3/4", "1-1/2", "3-1/4", "5", "5-1/2", "5-3/4", "6", "6-1/4", "13", "13-1/2", "35", "---"], "distance": ["1650M - (40-15)"], "horse": ["DUTCH WINDMILL", "BLISS CARTEL", "SPEEDY WALLY", "ATOMIC BLAST", "HIGH SPEED METRO", "CHOICE EXCHEQUER", "CHARITY PLENTY", "MEDIC SWORDSMAN", "SILVER GATSBY", "MIGHTY WONGCHOY", "MASTER PINNACLE", "MONEY MAN", "SAFARI MAGIC"], "race-meeting": ["\r\n                Race Meeting: 25/01/2017\u00a0\u00a0\u00a0\u00a0Happy Valley\r\n            "], "going": ["GOOD"], "win-odds": ["5.5", "3.7", "3.4", "8.6", "13", "13", "78", "38", "15", "16", "33", "61", "---"], "course-type": ["TURF - \"C+3\" COURSE"], "class": ["Class 5 - "], "page": "2"}
+]
